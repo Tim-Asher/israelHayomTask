@@ -24,8 +24,8 @@ This project is a NestJS-based backend application that connects to MongoDB and 
 ### Clone this repository:
 
 ```bash
-git clone <repository_url>
-cd <project_directory>
+git clone git@github.com:Tim-Asher/israelHayomTask.git
+cd git@github.com:Tim-Asher/israelHayomTask.git
 ```
 
 ## Install the required dependencies for both the frontend and the backend:
